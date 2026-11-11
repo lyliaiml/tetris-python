@@ -32,16 +32,12 @@ Ce projet consiste à développer une version du jeu Tetris en Python. Il repose
 
 - `src/` : code source
 - `docs/` : sujet et rapport
-- `screenshots/` : captures du jeu
 
-## Aperçu
 
-Les captures d'écran du jeu seront ajoutées dans `screenshots/`.
 
 ## Documentation
 
-- [Sujet du projet](docs/sujet.pdf)
-- [Rapport du projet](docs/rapport.pdf)
+- [Rapport du projet](<rapport tetris.pdf>)
 
 ## Auteur
 
